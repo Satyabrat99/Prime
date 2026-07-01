@@ -1,2 +1,2 @@
 # Prime
-Work test
+Work test Prime!
